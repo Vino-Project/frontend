@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vino-Project/frontend/static/css/main.5f07db7c.css",
+    "main.js": "/Vino-Project/frontend/static/js/main.068d8c29.js",
+    "static/js/453.670e15c7.chunk.js": "/Vino-Project/frontend/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Vino-Project/frontend/index.html",
+    "main.5f07db7c.css.map": "/Vino-Project/frontend/static/css/main.5f07db7c.css.map",
+    "main.068d8c29.js.map": "/Vino-Project/frontend/static/js/main.068d8c29.js.map",
+    "453.670e15c7.chunk.js.map": "/Vino-Project/frontend/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f07db7c.css",
+    "static/js/main.068d8c29.js"
+  ]
+}
