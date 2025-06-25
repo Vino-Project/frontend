@@ -1,23 +1,44 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# production
-/build
-
-# misc
+# Node (React)
+node_modules/
+build/
+dist/
+.env
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Python & Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+instance/
+.webassets-cache
+
+# Data & Model
+*.h5
+*.hdf5
+*.ckpt
+*.tflite
+chat_dataset.xlsx
+interaksi_user.xlsx
+log_interaksi.txt
+datalatihan_AI.xlsx
+
+# VSCode / IDE
+.vscode/
+*.swp
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Mac System Files
+.Spotlight-V100
+.Trashes
+
+# Windows System Files
+desktop.ini
